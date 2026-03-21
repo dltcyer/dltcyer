@@ -5,8 +5,6 @@
 <div align="center">
    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cs logo"  />
     <img width="12" />
-   <img src="https://skillicons.dev/icons?i=c" height="60" alt="cs logo"  />
-    <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="cs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="js logo"  />
